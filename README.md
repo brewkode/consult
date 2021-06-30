@@ -29,9 +29,10 @@ Help your teams or company
 - Engage
 
 ### Kinds of Engagements
-- You want an external pair eyes on a tech choice that your team internally has and would like to have a more nuanced conversation and guidance (including evaluation process / adoption / onboarding etc)
+- You want an external pair eyes on a tech choice that your team internally has and would like to have a more nuanced conversation and guidance (including evaluation process / adoption / onboarding etc).
 - You have a legacy or on-the-verge-of-legacy software systems that increasingly needs rework and you are considering rewriting it. We can help you with both technical and operational guidance on how to go about doing it.
+- We can help you setup engineering bootcamps for your new hires to be productive.
 - Add more...
 
 ## Team
-We are two people at this point. We have worked with each other for a while, we understand each other's strengths and gaps. Both of us have been leading critical projects for a while and we have played different roles in different sized orgs. We enjoy mentoring / making things better and leaving the place better than before. We are pragmatically opinionated. Most of our answers start with -- "it depends", followed by questions.
+We are two people ([@brewkode](https://github.com/brewkode) and [@ashwanthkumar](https://github.com/ashwanthkumar) at this point. We have worked with each other for a while, we understand each other's strengths and gaps. Both of us have been leading critical projects for a while and we have played different roles in different sized orgs. We enjoy mentoring / making things better and leaving the place better than before. We are pragmatically opinionated. Most of our answers start with -- "it depends", followed by questions.
